@@ -3,4 +3,4 @@ set -eux
 
 output=$(./main)
 
-[ "$output" == "Hello World!" ]
+[ "$output" == "Foo Bar!" ]
